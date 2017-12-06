@@ -6,4 +6,7 @@ A face detection network for team Banana
 
 ## Installation
 
-<code> pip install git+[Repo Link] </code>
+<code>pip install git+[Repo Link]</code>
+
+## NOTES
+works with python2 only
