@@ -1,0 +1,3 @@
+mxnet 
+opencv-python
+numpy
